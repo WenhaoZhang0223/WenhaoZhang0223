@@ -47,11 +47,12 @@ Focus     : Machine Learning | Deep Learning | Applied AI | Agent |
 
 **AI / Machine Learning**
 
-[![PyTorch and LangChain](https://skillicons.dev/icons?i=pytorch,langchain&theme=dark)](https://skillicons.dev)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://pytorch.org)
+<a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/00A67E" height="48" alt="LangChain"/></a>
 
 **Data & Applications**
 
-[![Data and application tools](https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,html,css&theme=dark)](https://skillicons.dev)
+[![Data and application tools](https://skillicons.dev/icons?i=fastapi,nextjs,nodejs,html,css&theme=dark)](https://skillicons.dev)
 
 **Tools & Platforms**
 
