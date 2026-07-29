@@ -81,7 +81,7 @@ Focus     : Machine Learning | Deep Learning | Applied AI | Agent |
 <a href="https://github.com/WenhaoZhang0223"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="24" alt="GitHub"/> GitHub</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/pulala.0223"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="24" alt="Instagram"/> Instagram</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.xiaohongshu.com/user/profile/5d52b73b0000000012017198"><img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" height="24" alt="Xiaohongshu"/> Xiaohongshu</a>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/wechat/07C160" height="24" alt="WeChat"/> WeChat: <em>__Pulalalwaysloveu__</em>
+<img src="https://cdn.simpleicons.org/wechat/07C160" height="24" alt="WeChat"/> WeChat: <em>\_Pulalalwaysloveu\_</em>
 
 <br/>
 
