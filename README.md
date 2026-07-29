@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Wenhao%20Zhang&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%7C%20Applied%20AI%20%7C%20Data%20Science&descSize=18&descAlignY=57&animation=twinkling" width="100%" alt="Wenhao Zhang"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=760&height=65&lines=Hi%2C+I'm+Wenhao+Zhang+%F0%9F%91%8B;Data+%26+Computational+Science+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Exploring+AI%2C+One+Model+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=760&height=65&lines=Hi%2C+I'm+Wenhao+Zhang+%F0%9F%91%8B;Data+%26+Computational+Science+Student+%F0%9F%8E%93;I+may+be+slow%2C+but+I+never+stop;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=WenhaoZhang0223&label=Profile%20Views&color=0891b2&style=flat-square)](https://github.com/WenhaoZhang0223)
 [![Followers](https://img.shields.io/github/followers/WenhaoZhang0223?label=Followers&style=flat-square&color=0891b2)](https://github.com/WenhaoZhang0223?tab=followers)
@@ -21,7 +21,7 @@
 ```yaml
 Name      : Wenhao Zhang
 Education : MSc Data & Computational Science | Computer Science
-University: University College Dublin | Korean Advanced Institute of Science and Technology | Chongqing university of Technology
+University: University College Dublin |   Korean Advanced Institute of Science and Technology | Chongqing university of Technology
 Focus     : Machine Learning | Deep Learning | Applied AI | Agent | 
 ```
 
@@ -60,15 +60,12 @@ Focus     : Machine Learning | Deep Learning | Applied AI | Agent |
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Activity Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WenhaoZhang0223&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true&area=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WenhaoZhang0223&bg_color=ffffff&color=24292f&line=0891b2&point=0369a1&hide_border=true&area=true"/>
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=WenhaoZhang0223&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity"/>
-</picture>
+![GitHub contribution snake](https://raw.githubusercontent.com/WenhaoZhang0223/WenhaoZhang0223/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub contribution snake](https://raw.githubusercontent.com/WenhaoZhang0223/WenhaoZhang0223/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
