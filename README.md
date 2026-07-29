@@ -47,7 +47,7 @@ Focus     : Machine Learning | Deep Learning | Applied AI | Agent |
 
 **AI / Machine Learning**
 
-[![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://pytorch.org)
+[![PyTorch and LangChain](https://skillicons.dev/icons?i=pytorch,langchain&theme=dark)](https://skillicons.dev)
 
 **Data & Applications**
 
