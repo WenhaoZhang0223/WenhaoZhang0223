@@ -78,18 +78,33 @@ Focus     : Machine Learning | Deep Learning | Applied AI | Agent |
 
 > Whether it is an AI idea, a data science discussion, or an opportunity to learn together — feel free to connect.
 
-<a href="https://github.com/WenhaoZhang0223"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/pulala.0223"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://www.xiaohongshu.com/user/profile/5d52b73b0000000012017198"><img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" width="30" alt="Xiaohongshu"/></a>
-
-<br/>
-
-<sub>GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xiaohongshu</sub>
-
-<p>
-  <img src="https://cdn.simpleicons.org/wechat/07C160" width="22" alt="WeChat"/>
-  <strong>WeChat:</strong> <em><strong>Pulalalwaysloveu</strong></em>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/WenhaoZhang0223">
+        <img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" alt="GitHub"/><br/>
+        <sub>GitHub</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/pulala.0223">
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" alt="Instagram"/><br/>
+        <sub>Instagram</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.xiaohongshu.com/user/profile/5d52b73b0000000012017198">
+        <img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" width="30" alt="Xiaohongshu"/><br/>
+        <sub>Xiaohongshu</sub>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/wechat/07C160" width="30" alt="WeChat"/><br/>
+      <sub>WeChat</sub><br/>
+      <sup><em>Pulalalwaysloveu</em></sup>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
