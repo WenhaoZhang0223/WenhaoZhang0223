@@ -78,9 +78,13 @@ Focus     : Machine Learning | Deep Learning | Applied AI | Agent |
 
 > Whether it is an AI idea, a data science discussion, or an opportunity to learn together — feel free to connect.
 
-[![GitHub](https://img.shields.io/badge/GitHub-WenhaoZhang0223-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WenhaoZhang0223)
-[![Instagram](https://img.shields.io/badge/Instagram-pulala.0223-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pulala.0223)
-[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-Profile-FF2442?style=for-the-badge)](https://www.xiaohongshu.com/user/profile/5d52b73b0000000012017198)
+<a href="https://github.com/WenhaoZhang0223"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/pulala.0223"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://www.xiaohongshu.com/user/profile/5d52b73b0000000012017198"><img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" width="30" alt="Xiaohongshu"/></a>
+
+<br/>
+
+<sub>GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xiaohongshu</sub>
 
 <p>
   <img src="https://cdn.simpleicons.org/wechat/07C160" width="22" alt="WeChat"/>
