@@ -20,19 +20,18 @@
 
 ```yaml
 Name      : Wenhao Zhang
-Education : MSc Data & Computational Science
-University: University College Dublin
-Location  : Dublin, Ireland
-Focus     : Machine Learning | Applied AI | Data Science
+Education : MSc Data & Computational Science | Computer Science
+University: University College Dublin | Korean Advanced Institute of Science and Technology | Chongqing university of Technology
+Focus     : Machine Learning | Deep Learning | Applied AI | Agent | 
 ```
 
-- 🎓 Studying **Data & Computational Science** at **University College Dublin**
+- 🎓 Current studying **Data & Computational Science** at **University College Dublin**
 - 🧠 Exploring **machine learning, deep learning, and intelligent agents**
 - 👁️ Interested in **computer vision, NLP, and data-driven problem solving**
 - 🔬 Enjoy turning ideas and experiments into practical AI applications
 - 🌱 Currently deepening my knowledge of **PyTorch, LLMs, and model evaluation**
 - 💬 Open to conversations about **AI, data science, and graduate opportunities**
-
+- 🧠 Actively use AI coding tool: Chatgpt, pi, codewhale, claude code for vibecoding
 <br clear="both"/>
 
 ---
@@ -47,12 +46,15 @@ Focus     : Machine Learning | Applied AI | Data Science
 
 **AI / Machine Learning**
 
-[![AI and machine learning](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)](https://skillicons.dev)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://pytorch.org)
 
+**Data & Applications**
+
+[![Data and application tools](https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,html,css&theme=dark)](https://skillicons.dev)
 
 **Tools & Platforms**
 
-[![Tools and platforms](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,anaconda&theme=dark)](https://skillicons.dev)
+[![Tools and platforms](https://skillicons.dev/icons?i=git,github,linux,vscode,anaconda&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -63,59 +65,9 @@ Focus     : Machine Learning | Applied AI | Data Science
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WenhaoZhang0223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&rank_icon=github"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WenhaoZhang0223&show_icons=true&hide_border=true&title_color=0369a1&icon_color=0891b2&rank_icon=github"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WenhaoZhang0223&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Wenhao's GitHub statistics"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WenhaoZhang0223&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WenhaoZhang0223&layout=compact&hide_border=true&title_color=0369a1&langs_count=8"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenhaoZhang0223&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WenhaoZhang0223&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=WenhaoZhang0223&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0369a1"/>
-  <img src="https://streak-stats.demolab.com?user=WenhaoZhang0223&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</picture>
-
-</div>
-
----
-
-## 🌐 3D Contribution Galaxy
-
-<div align="center">
-
-<a href="https://github.com/WenhaoZhang0223">
-  <img src="https://raw.githubusercontent.com/WenhaoZhang0223/WenhaoZhang0223/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=WenhaoZhang0223&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WenhaoZhang0223&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true&area=true"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WenhaoZhang0223&bg_color=ffffff&color=24292f&line=0891b2&point=0369a1&hide_border=true&area=true"/>
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=WenhaoZhang0223&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=WenhaoZhang0223&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity"/>
 </picture>
 
 </div>
@@ -132,9 +84,16 @@ Focus     : Machine Learning | Applied AI | Data Science
 [![Instagram](https://img.shields.io/badge/Instagram-pulala.0223-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pulala.0223)
 [![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-Profile-FF2442?style=for-the-badge)](https://www.xiaohongshu.com/user/profile/5d52b73b0000000012017198)
 
+<p>
+  <img src="https://cdn.simpleicons.org/wechat/07C160" width="22" alt="WeChat"/>
+  <strong>WeChat:</strong> <em><strong>Pulalalwaysloveu</strong></em>
+</p>
+
 <br/>
 
-> *“The illusion created by the internet has vastly magnified this flawed approach to life planning, while generating a great deal of unnecessary anxiety.”*
+<h2 align="center">
+  <em>“The illusion created by the internet has vastly magnified this flawed approach to life planning, while generating a great deal of unnecessary anxiety.”</em>
+</h2>
 
 <br/><br/>
 
