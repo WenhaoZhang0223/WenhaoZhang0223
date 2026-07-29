@@ -8,7 +8,6 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=WenhaoZhang0223&label=Profile%20Views&color=0891b2&style=flat-square)](https://github.com/WenhaoZhang0223)
 [![Followers](https://img.shields.io/github/followers/WenhaoZhang0223?label=Followers&style=flat-square&color=0891b2)](https://github.com/WenhaoZhang0223?tab=followers)
-![Location](https://img.shields.io/badge/Dublin-Ireland-16a34a?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -21,7 +20,9 @@
 ```yaml
 Name      : Wenhao Zhang
 Education : MSc Data & Computational Science | Computer Science
-University: University College Dublin |   Korean Advanced Institute of Science and Technology | Chongqing university of Technology
+University: University College Dublin |
+            Korean Advanced Institute of Science and Technology | 
+            Chongqing university of Technology
 Focus     : Machine Learning | Deep Learning | Applied AI | Agent | 
 ```
 
