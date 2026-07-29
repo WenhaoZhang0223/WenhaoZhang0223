@@ -65,7 +65,6 @@ Focus     : Machine Learning | Deep Learning | Applied AI | Agent |
 
 <div align="center">
 
-![GitHub contribution snake](https://raw.githubusercontent.com/WenhaoZhang0223/WenhaoZhang0223/gh-pages/github-contribution-grid-snake-dark.svg.svg#gh-dark-mode-only)
 ![GitHub contribution snake](https://raw.githubusercontent.com/WenhaoZhang0223/WenhaoZhang0223/gh-pages/github-contribution-grid-snake.svg)
 
 </div>
