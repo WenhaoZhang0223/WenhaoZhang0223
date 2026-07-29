@@ -49,9 +49,6 @@ Focus     : Machine Learning | Applied AI | Data Science
 
 [![AI and machine learning](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)](https://skillicons.dev)
 
-**Data & Applications**
-
-[![Data and application tools](https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,html,css&theme=dark)](https://skillicons.dev)
 
 **Tools & Platforms**
 
